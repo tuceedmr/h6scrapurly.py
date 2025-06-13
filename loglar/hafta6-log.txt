@@ -1,0 +1,4 @@
+Hafta 6 Log:
+
+Webden veri çekme yapıldı.  
+Haber linkleri alındı ve dosyaya yazıldı.
