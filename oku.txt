@@ -1,3 +1,5 @@
 6. Hafta
 
-Bu hafta web scraping yapmayı denedik. İnternetten haberlerin linklerini çekmek için requests ve BeautifulSoup kullandık. Bulduğum linkleri hem ekrana yazdırdım hem de dosyaya kaydettim.
+Bu hafta Python ile web sayfasından veri çektik.  
+Requests ve BeautifulSoup kullandık.  
+Haberlerin linklerini bulup dosyaya kaydettim.
